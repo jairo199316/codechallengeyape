@@ -1,0 +1,18 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="altura_app_bar">40dp</dimen>
+    <dimen name="altura_boton_atras">25dp</dimen>
+    <dimen name="ancho_boton_atras">25dp</dimen>
+    <dimen name="margen_8dp">8dp</dimen>
+    <dimen name="margen_10dp">10dp</dimen>
+    <dimen name="tamanio_titulo_app_bar">18sp</dimen>
+    <dimen name="alto_imagen_receta">200dp</dimen>
+    <dimen name="tamanio_nombre_receta">30sp</dimen>
+    <dimen name="altura_informacion_receta">35dp</dimen>
+    <dimen name="margen_5dp">5dp</dimen>
+    <dimen name="ancho_imagen_bandera">45dp</dimen>
+    <dimen name="tamanio_nombre_receta_home">10sp</dimen>
+    <dimen name="altura_boton_ir_atras">24dp</dimen>
+    <dimen name="ancho_boton_ir_atras">24dp</dimen>
+
+</resources>

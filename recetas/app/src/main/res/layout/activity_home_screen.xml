@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_recetas"
+    android:orientation="vertical">
+
+    <SearchView
+        android:id="@+id/filtro"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="@dimen/margen_8dp"
+        android:layout_marginTop="@dimen/margen_10dp"
+        android:iconifiedByDefault="false"
+        android:queryHint="@string/hint_filtro" />
+
+    <GridView
+        android:id="@+id/contenedorRecetas"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginHorizontal="@dimen/margen_10dp"
+        android:layout_marginTop="@dimen/margen_10dp"
+        android:horizontalSpacing="@dimen/margen_10dp"
+        android:numColumns="2"
+        android:verticalSpacing="@dimen/margen_10dp" />
+</LinearLayout>

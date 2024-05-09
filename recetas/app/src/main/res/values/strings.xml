@@ -1,0 +1,8 @@
+<resources>
+    <string name="api_key_google_maps">AIzaSyAJxg1PpG4GHnVFGyCfiW-Qk8mO5uQebWk</string>
+
+    <string name="app_name">recetas</string>
+    <string name="detalle_receta">Detalle Receta</string>
+    <string name="ubicacion_receta">Ubicacion Receta</string>
+    <string name="hint_filtro">Receta, ingredientes, o pais origen</string>
+</resources>
